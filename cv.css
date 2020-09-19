@@ -2,49 +2,85 @@ header  {
     padding-top: 10%;
     background-color: blanchedalmond;
     width: 100%;
-    }
+}
 footer {
     padding-top: 0%;
     background-color: blanchedalmond;
     width: 100%;
-    }
+}
 main{
     padding-top: 0%;
     background-color: white;
     width: 100%;
-    }
+}
 .table {
-        margin-left: auto;
-        margin-right: auto;
-        display: table;
-    }
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+}
 .table-row {
-        display: table-row;
-        vertical-align: text-top;
-    }
+    display: table-row;
+    vertical-align: text-top;
+}
 .table-col {
-        vertical-align: top;
-        display: table-cell;
-    }
+    vertical-align: top;
+    display: table-cell;
+}
 .table-col a button:hover {
-        cursor: pointer;
-    }
+    cursor: pointer;
+}
 .table-col h1 {
-        text-align: top;
-    }
+    text-align: top;
+}
 .table-col h4 {
-        margin-bottom: 2px;
-        margin-top: 2px;
-    }
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+.logo {
+    text-align: center; 
+    vertical-align: middle;
+    padding: 5%;"
+}
 .logo img {
-        width: 60%;
-        height: auto;
-        border-radius: 50%;
+    width: 60%;
+    height: auto;
+    border-radius: 50%;
     }
 .skill-set {
-        border: 1px solid black; 
-        padding:5px; 
-        background-color: white; 
-        display: inline-block; 
-        margin:1px;
+    border: 1px solid black; 
+    padding:5px; 
+    background-color: white; 
+    display: inline-block; 
+    margin:1px;
     }
+.contact-img {
+    text-decoration: none;
+    color:black;
+}
+.contact-img button {
+    font-size:16px
+}
+.content {
+    width: 40%; 
+    border-right: 1px solid white; 
+    padding-right: 10px;
+}
+.about-me {
+    font-variant:small-caps;
+}
+.we-border-right {
+    border-right: 1px solid midnightblue;
+}
+.we-border-bottom {
+    border-bottom:1px solid midnightblue;
+}
+.we-border-left {
+    border-left:1px solid midnightblue;
+}
+.emptycell-height {
+    height: 50px;
+}
+.text-center {
+    vertical-align: middle; 
+    text-align: center;
+}
